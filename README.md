@@ -1,4 +1,3 @@
-
 # Displaying a Tic Tac Toe Board
 
 ## Overview
